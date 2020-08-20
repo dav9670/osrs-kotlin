@@ -1,0 +1,1 @@
+java -Xdebug -Xrunjdwp:transport = dt_socket, server = y, suspend = n, address = 12345 -jar C:\Users\david\DreamBot\BotData\client.jar
